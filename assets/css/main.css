@@ -2792,7 +2792,7 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			width: 40em;
 			margin: 0 auto;
 		}
 
@@ -3560,6 +3560,8 @@ input, select, textarea {
 				pointer-events: none;
 				opacity: 0;
 			}
+
+
 
 /* Banner */
 
